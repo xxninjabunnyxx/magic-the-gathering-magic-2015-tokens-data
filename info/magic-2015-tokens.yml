@@ -1,0 +1,16 @@
+---
+object: set
+id: ae4f4088-26d4-479c-b615-1027c25bb577
+code: tm15
+name: Magic 2015 Tokens
+uri: https://api.scryfall.com/sets/ae4f4088-26d4-479c-b615-1027c25bb577
+scryfall_uri: https://scryfall.com/sets/tm15
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atm15&unique=prints
+released_at: '2014-07-18'
+set_type: token
+card_count: 14
+parent_set_code: m15
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/m15.svg?1694404800
